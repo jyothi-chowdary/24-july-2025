@@ -5,7 +5,7 @@ Scanner sc=new Scanner(System.in);
 System.out.println("Priya online shopping offer");
 System.out.println("Priya online shopping amount");
 double amt=sc.nextInt();
-Boolean member=sc.nextBoolean();
+boolean member=sc.nextBoolean();
 double discount;;
 if(amt>=10000){
 		discount=30;
