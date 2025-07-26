@@ -20,7 +20,8 @@ else if(amt>=5000){
 			discount=20;
 			System.out.println("items worth:"+amt);
 			System.out.println("she is a member");
-			System.out.println("discount for Priya:"+discount);					double discountmoney=(discount/100)*amt;
+			System.out.println("discount for Priya:"+discount);					
+			double discountmoney=(discount/100)*amt;
 			System.out.println("discount money is :"+discountmoney);
 
 	}
